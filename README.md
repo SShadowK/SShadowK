@@ -1,0 +1,4 @@
+- 🐉 Hi, I'm @SShadowK, a guy who loves learning new things, aspires to be a programmer and strives to be the best version of himself.🐉
+- 💻 I’m interested in programing, games, astrology, ancient culture and a bit of sport.
+- 👨‍🎓 I’m currently learning Java language and Spring framework. 
+- 📫 If you want to reach me, write email messege.
